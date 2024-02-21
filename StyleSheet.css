@@ -1,14 +1,17 @@
 body {
-  background-color: lightblue;
+  background-color: floralwhite;
 }
 
 h1 {
   color: navy;
   margin-left: 20px;
+    font-family:sans-serif;
 }  
 
 p {
-    color: aqua
+    color: black;
+    font-family: sans-serif;
+    padding: 20px;
 }
 
 <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-bc4zErT50eSzqK12w0PvL9g/DlTo/DjD/YBXlQApw4A=" crossorigin="anonymous"></script>
