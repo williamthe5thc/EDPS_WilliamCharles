@@ -1,17 +1,18 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-bc4zErT50eSzqK12w0PvL9g/DlTo/DjD/YBXlQApw4A=" crossorigin="anonymous"></script>
+body {
+  background-color: lightblue;
+}
 
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+h1 {
+  color: navy;
+  margin-left: 20px;
+}  
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.4.1/dist/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+p {
+    color: aqua
+}
 
-      <!-- this is the thing for the title tab -->
-    <title>Hello, Home page Portfolio world!</title>
+<script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-bc4zErT50eSzqK12w0PvL9g/DlTo/DjD/YBXlQApw4A=" crossorigin="anonymous"></script>
+
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -37,19 +38,3 @@
         </div>
       </div>
     </nav>
-
-  </head>
-  <body>
-      
-    
-      
-      <h1>Hello, Home world!</h1>
-      <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          <br>
-<!-- Fix the image -->
-<img src="bio.png" alt="Picture of William" style="width:500px;height:600px;">
-        
-    
-  </body>
-</html>
